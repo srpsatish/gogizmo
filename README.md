@@ -1,1 +1,2 @@
-# srpsatish
+#gogizmo
+#gadgets informative website
